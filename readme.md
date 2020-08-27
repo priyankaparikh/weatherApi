@@ -1,3 +1,5 @@
+![](weather_forecast.gif)
+
 ***Bringing up the server:***
 
 from the root directory ```/weather_api``` run 
